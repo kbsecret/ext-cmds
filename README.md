@@ -3,7 +3,7 @@ ext-cmds
 
 This repository is a central resource for custom KBSecret commands.
 
-Check out the [customization page](https://kbsecret.github.io/customization) for a quick
+Check out the [customization page](https://kbsecret.github.io/#/customize/) for a quick
 explanation of how custom commands work and behave.
 
 ## Contributing a new command
