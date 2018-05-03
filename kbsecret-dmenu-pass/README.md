@@ -8,7 +8,7 @@ clipboard.
 ## Usage
 
 ```bash
-$ kbsecret dmenu-pass
+$ kbsecret dmenu-pass [--session <session>]
 ```
 
 ## Demo
